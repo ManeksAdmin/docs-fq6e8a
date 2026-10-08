@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rnrzbg.rtb-system.online/sitemap.xml
